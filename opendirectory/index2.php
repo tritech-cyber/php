@@ -1,6 +1,9 @@
 <html>
 <head>
-<title>WAMC Resources</title>
+<title>your site name </title>
+//////////////////////////////////////////////////////
+// take this code and put it in an external style sheet
+//////////////////////////////////////////////////////
 <style>
 		body {
 		background-color: #fff;
@@ -175,6 +178,9 @@ and (max-device-width : 1024px)  {
 }
 
 </style>
+//////////////////////////////////////////////////////
+// take the above code and put it in an external style sheet
+//////////////////////////////////////////////////////
 </head>
 
 
@@ -202,10 +208,10 @@ and (max-device-width : 1024px)  {
 <body>
 <div id="list">	
 <div class="header">
-  <img src = "wamc-logo-monarchs2.png" height = "70px">
+  <img src = "addanimage.png" height = "70px">
   <?php  echo "Today is " . date("m/d/Y"); ?>
 </div>
-<header><span style="color:#ff7f00; background-color:#fff";>Washing Applied Mathematics Council Resources</span></header>
+<header><span style="color:#ff7f00; background-color:#fff";> ADD SOME TEXT </span></header>
 
 <hr />
 <p>Files:</p>
