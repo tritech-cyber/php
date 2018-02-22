@@ -1,6 +1,7 @@
 <html>
 <head>
 <title> NAME OF YOUR SITE</title>
+<!-- ADD THE FOLLOWING TO AN EXTERNALL CSS SHEET-- >
 <style>
 		body {
 		background-color: #fff;
@@ -176,6 +177,7 @@ and (max-device-width : 1024px)  {
 }
 
 </style>
+<!-- ADD THE ABOVE TO AN EXTERNALL CSS SHEET-- >
 </head>
 
 
@@ -202,7 +204,7 @@ and (max-device-width : 1024px)  {
   <img src = "ADD A GRAPHIC .png" height = "70px">
   <?php  echo "Today is " . date("m/d/Y"); ?>
 </div>
-<header><span style="color:#ff7f00; background-color:#fff";>Washing Applied Mathematics Council Resources</span></header>
+<header><span style="color:#ff7f00; background-color:#fff";>ADD TEXT NOW </span></header>
 
 <hr />
 <p>Files:</p>
