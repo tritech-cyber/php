@@ -14,7 +14,7 @@
     {
 		
 		$l = "file.png";
-		if ($file == "image-development" || $file == "functiontoolkit" || $file == "img" || $file == "documents" )$l = "directory.png";
+		if (false === strpos((string)$file ,'.'))$l = "directory.png";
 		
         if ($file != "." && $file != ".."&& $file != "index.php" && $file != "css") 
         {
